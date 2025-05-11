@@ -6,3 +6,5 @@ x=a+b
 
 #Subtraction function 
 x=a-b
+
+#Division
